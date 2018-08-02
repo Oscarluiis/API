@@ -1,0 +1,3 @@
+/Users/LuiizMusic11/Desktop/III Tri 2018/Estructura II/API/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/LuiizMusic11/Desktop/III Tri 2018/Estructura II/API/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/LuiizMusic11/Desktop/III Tri 2018/Estructura II/API/cmake-build-debug/CMakeFiles/API.dir

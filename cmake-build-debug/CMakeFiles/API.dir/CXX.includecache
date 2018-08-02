@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/LuiizMusic11/Desktop/III Tri 2018/Estructura II/API/DataFile.cpp
+DataFile.h
+/Users/LuiizMusic11/Desktop/III Tri 2018/Estructura II/API/DataFile.h
+
+/Users/LuiizMusic11/Desktop/III Tri 2018/Estructura II/API/DataFile.h
+fstream
+-
+cstring
+-
+
+/Users/LuiizMusic11/Desktop/III Tri 2018/Estructura II/API/main.cpp
+iostream
+-
+fstream
+-
+

@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" "/Users/LuiizMusic11/Desktop/III Tri 2018/Estructura II/API"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/LuiizMusic11/Desktop/III Tri 2018/Estructura II/API/cmake-build-debug
