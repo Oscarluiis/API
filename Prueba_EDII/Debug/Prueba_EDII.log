@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  DataFile.cpp
+c:\users\oscar sánchez\desktop\prueba\prueba_edii\prueba_edii\datafile.cpp(32): warning C4244: 'return': conversión de 'std::streamoff' a 'int'; posible pérdida de datos
+  FixedSize_Register.cpp
+c1xx : fatal error C1083: No se puede abrir el archivo origen: 'FixedSize_Register.cpp': No such file or directory
+  KnowVarSize_Register.cpp
+c:\users\oscar sánchez\desktop\prueba\prueba_edii\prueba_edii\knowvarsize_register.cpp(27): error C3867: 'DataFile::tamFile': sintaxis no estándar; utilice  '&' para crear un puntero al miembro
+  Prueba_EDII.cpp
+  Generando código...
